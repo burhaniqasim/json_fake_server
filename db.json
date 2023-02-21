@@ -1,31 +1,175 @@
 {
-    "posts": [
-      {
-        "id": 1,
-        "title": "Post 1"
-      },
-      {
-        "id": 2,
-        "title": "Post 2"
-      },
-      {
-        "id": 3,
-        "title": "Post 3"
-      }
+    "visits": [
+        {
+            "_id": "63f4710b57e3807ea2e15b3d",
+            "appointment_date": "2018-10-16T09:47:21 -06:-30",
+            "doctor": "Dr. Bruce Banner",
+            "patient_id": "63f46f77e111ff19ce16306a"
+        },
+        {
+            "_id": "63f4710b847929ad6227b304",
+            "appointment_date": "2016-09-18T07:00:03 -06:-30",
+            "doctor": "Dr. Thomas Wayne",
+            "patient_id": "63f46f77e5fedd9d45881d0a"
+        },
+        {
+            "_id": "63f4710b71367467229a33dd",
+            "appointment_date": "2018-03-08T03:00:54 -06:-30",
+            "doctor": "Dr. Bruce Banner",
+            "patient_id": "63f46f77fe0fbb4f5af0cf0f"
+        },
+        {
+            "_id": "63f4710be7b60e1be16f674e",
+            "appointment_date": "2018-09-23T11:48:05 -06:-30",
+            "doctor": "Dr. Bruce Banner",
+            "patient_id": "63f46f77fe0fbb4f5af0cf0f"
+        },
+        {
+            "_id": "63f4710be5dd8cb98f7b15e6",
+            "appointment_date": "2021-11-20T08:26:24 -06:-30",
+            "doctor": "Dr. Bruce Banner",
+            "patient_id": "63f46f77fe0fbb4f5af0cf0f"
+        },
+        {
+            "_id": "63f4710bfb1db74ace793cc0",
+            "appointment_date": "2020-12-09T01:52:40 -06:-30",
+            "doctor": "Dr. Bruce Banner",
+            "patient_id": "63f46f77fe0fbb4f5af0cf0f"
+        },
+        {
+            "_id": "63f4710b5900b45b9eb6d3f8",
+            "appointment_date": "2018-09-29T01:01:09 -06:-30",
+            "doctor": "Dr. Steve Strange",
+            "patient_id": "63f46f77fe0fbb4f5af0cf0f"
+        },
+        {
+            "_id": "63f4710b2e129b653ffc77e2",
+            "appointment_date": "2020-03-21T10:30:59 -06:-30",
+            "doctor": "Dr. Bruce Banner",
+            "patient_id": "63f46f77c9499ff004c77c9a"
+        },
+        {
+            "_id": "63f4710b8c36532fe45b6caf",
+            "appointment_date": "2016-05-22T06:07:44 -06:-30",
+            "doctor": "Dr. Bruce Banner",
+            "patient_id": "63f46f77fe0fbb4f5af0cf0f"
+        },
+        {
+            "_id": "63f4710b9f0332d43c3da8aa",
+            "appointment_date": "2021-04-30T10:07:12 -06:-30",
+            "doctor": "Dr. Thomas Wayne",
+            "patient_id": "63f46f77c9499ff004c77c9a"
+        },
+        {
+            "_id": "63f4710b0fbd43b13be56e35",
+            "appointment_date": "2019-01-19T03:19:49 -06:-30",
+            "doctor": "Dr. Bruce Banner",
+            "patient_id": "63f46f77fe0fbb4f5af0cf0f"
+        },
+        {
+            "_id": "63f4710b53a6e202bc6e3273",
+            "appointment_date": "2014-11-16T11:29:46 -06:-30",
+            "doctor": "Dr. Steve Strange",
+            "patient_id": "63f46f77c9499ff004c77c9a"
+        },
+        {
+            "_id": "63f4710bfc36a9f73412a5bb",
+            "appointment_date": "2019-11-27T08:35:22 -06:-30",
+            "doctor": "Dr. Bruce Banner",
+            "patient_id": "63f46f77b8562a9eadc833f6"
+        },
+        {
+            "_id": "63f4710b838f7cd2f2d7994c",
+            "appointment_date": "2021-12-18T08:14:05 -06:-30",
+            "doctor": "Dr. Thomas Wayne",
+            "patient_id": "63f46f77e5fedd9d45881d0a"
+        },
+        {
+            "_id": "63f4710bcb6b43a9e7becd36",
+            "appointment_date": "2020-02-01T09:14:33 -06:-30",
+            "doctor": "Dr. Thomas Wayne",
+            "patient_id": "63f46f77c9499ff004c77c9a"
+        },
+        {
+            "_id": "63f4710bdb0fcae17c97f929",
+            "appointment_date": "2018-05-28T10:52:49 -06:-30",
+            "doctor": "Dr. Bruce Banner",
+            "patient_id": "63f46f77b8562a9eadc833f6"
+        },
+        {
+            "_id": "63f4710becf5a887854fdd5c",
+            "appointment_date": "2017-06-09T07:16:01 -06:-30",
+            "doctor": "Dr. Thomas Wayne",
+            "patient_id": "63f46f77b8562a9eadc833f6"
+        },
+        {
+            "_id": "63f4710b4545126b94f71ea2",
+            "appointment_date": "2019-02-05T12:58:46 -06:-30",
+            "doctor": "Dr. Bruce Banner",
+            "patient_id": "63f46f77e111ff19ce16306a"
+        },
+        {
+            "_id": "63f4710baf324e0a689cd550",
+            "appointment_date": "2017-03-17T03:36:40 -06:-30",
+            "doctor": "Dr. Bruce Banner",
+            "patient_id": "63f46f77fe0fbb4f5af0cf0f"
+        }
     ],
-    "comments": [
-      {
-        "id": 1,
-        "body": "some comment",
-        "postId": 1
-      },
-      {
-        "id": 2,
-        "body": "some comment",
-        "postId": 1
-      }
-    ],
-    "profile": {
-      "name": "typicode"
-    }
-  }
+    "users": [
+        {
+            "_id": "63f46f77e111ff19ce16306a",
+            "picture": "http://placehold.it/32x32",
+            "age": 39,
+            "name": "Rosalyn Barron",
+            "gender": "female",
+            "email": "rosalynbarron@bluegrain.com",
+            "phone": "+1 (952) 553-3890",
+            "address": "503 Holmes Lane, Lookingglass, Oklahoma, 7808",
+            "registered": "2014-10-18T05:11:12 -06:-30"
+        },
+        {
+            "_id": "63f46f77e5fedd9d45881d0a",
+            "picture": "http://placehold.it/32x32",
+            "age": 24,
+            "name": "Hickman Mack",
+            "gender": "male",
+            "email": "hickmanmack@bluegrain.com",
+            "phone": "+1 (860) 449-2923",
+            "address": "968 Ovington Avenue, Calpine, Guam, 5756",
+            "registered": "2020-02-01T06:03:09 -06:-30"
+        },
+        {
+            "_id": "63f46f77c9499ff004c77c9a",
+            "picture": "http://placehold.it/32x32",
+            "age": 21,
+            "name": "Lilly Battle",
+            "gender": "female",
+            "email": "lillybattle@bluegrain.com",
+            "phone": "+1 (903) 544-2685",
+            "address": "863 Jodie Court, Nipinnawasee, Massachusetts, 9664",
+            "registered": "2021-11-02T08:06:59 -06:-30"
+        },
+        {
+            "_id": "63f46f77b8562a9eadc833f6",
+            "picture": "http://placehold.it/32x32",
+            "age": 28,
+            "name": "Sparks Zamora",
+            "gender": "male",
+            "email": "sparkszamora@bluegrain.com",
+            "phone": "+1 (880) 570-3015",
+            "address": "723 Dorset Street, Rosedale, Tennessee, 1044",
+            "registered": "2014-12-15T01:32:58 -06:-30"
+        },
+        {
+            "_id": "63f46f77fe0fbb4f5af0cf0f",
+            "picture": "http://placehold.it/32x32",
+            "age": 33,
+            "name": "Downs Harper",
+            "gender": "male",
+            "email": "downsharper@bluegrain.com",
+            "phone": "+1 (912) 404-3892",
+            "address": "465 Willoughby Avenue, Efland, Kansas, 570",
+            "registered": "2022-03-18T10:09:10 -06:-30"
+        }
+    ]
+}
